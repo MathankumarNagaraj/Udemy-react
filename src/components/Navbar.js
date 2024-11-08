@@ -5,7 +5,7 @@ function Navbar ()
     <div className="navbar">
     <div className="navbar__s1">
      <h1 className="navbar__s1__title">Ûdemy</h1>
-     <h2 className="navbar__s1">categories</h2>
+    
     </div>
 
     <div className="navbar__s2">
