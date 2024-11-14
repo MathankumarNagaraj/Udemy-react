@@ -5,7 +5,8 @@
 
 💻Key Highlights:Developed a clean, responsive UI that mirrors Udemy's layoutLeveraged React's component-based architecture for scalabilityImplemented dynamic routing to simulate a real user experienceCheck out the project here!
 
-React app:https://lnkd.in/gfrjPRav
+React app:https://udemy-react-psi-one.vercel.app/
+
 
 LinkedIn:
 https://www.linkedin.com/posts/mathankumar-n-4483442b1_reactjs-webdevelopment-frontenddevelopment-activity-7260693268424765442-X0PB?utm_source=share&utm_medium=member_android
